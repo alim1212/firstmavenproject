@@ -38,7 +38,7 @@ public class TestBase {
 			e.printStackTrace();
 		}
 		
-		initialization("chrome");
+		//initialization("chrome");
 		
 	}
 	
